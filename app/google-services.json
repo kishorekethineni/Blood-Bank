@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1048331856863",
+    "firebase_url": "https://bloodbankkarthik2.firebaseio.com",
+    "project_id": "bloodbankkarthik2",
+    "storage_bucket": "bloodbankkarthik2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048331856863:android:2db4107cb246e253fdf26a",
+        "android_client_info": {
+          "package_name": "com.nayan.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048331856863-f7lvnhnf9j7q9db2ppav1bkm6v1rlulh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nayan.bloodbank",
+            "certificate_hash": "63a0bc71c7f3a28a2017b16338273d0b44e99e02"
+          }
+        },
+        {
+          "client_id": "1048331856863-936qfj6rjlmfdv3935mobj00tvi60oag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA2PWWy_LykWNBvhLQ2qpg3II1nAlxBMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048331856863-936qfj6rjlmfdv3935mobj00tvi60oag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

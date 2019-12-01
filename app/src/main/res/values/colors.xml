@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cc446CB3</color>
+    <color name="colorPrimaryDark">#aa0000</color>
+    <color name="colorAccent">#F5AB35</color>
+    <!-- Background color for app -->
+    <!-- Background color for the numbers category -->
+    <!-- Background color for the family members category -->
+    <!-- Background color for the colors category -->
+    <!-- Background color for the phrases category -->
+
+    <color name="White">#ffffff</color>
+    <color name="grey">#6C7A89</color>
+
+
+    <color name="colorPrimaryTrans">#48F5AB35</color>
+    <color name="signupDot">#a6F5AB35</color>
+    <color name="colorAccentTrans">#48446CB3</color>
+    <color name="signinDot">#a6446CB3</color>
+    <color name="colorBlackTrans">#48000000</color>
+    <color name="btnColor">#a6F5AB35</color>
+    <color name="btnColor2">#a6446CB3</color>
+    <color name="addbg">#a6f2f1ef</color>
+</resources>

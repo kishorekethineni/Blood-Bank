@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:id="@+id/autoimage"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_gravity="right"
+        android:padding="50dp"
+        android:elevation="50dp"
+        android:orientation="horizontal"
+        android:background="@drawable/dash"
+        />
+
+    <GridLayout
+        android:id="@+id/grid"
+        android:layout_width="match_parent"
+        android:layout_height="426dp"
+        android:layout_weight="8"
+        android:alignmentMode="alignMargins"
+        android:columnCount="2"
+        android:columnOrderPreserved="false"
+        android:padding="14dp"
+        android:rowCount="3">
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cv1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="5dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:layout_margin="2dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="148dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    app:srcCompat="@drawable/adddonar" />
+
+                <TextView
+                    android:layout_width="138dp"
+                    android:layout_height="29dp"
+                    android:text="Be A Donar"
+                    android:textAlignment="center"
+                    android:textColor="#121211"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cv2"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="5dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:layout_margin="2dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="148dp"
+                    android:layout_height="68dp"
+                    android:layout_gravity="center_horizontal"
+                    app:srcCompat="@drawable/find" />
+
+                <TextView
+                    android:layout_width="138dp"
+                    android:layout_height="29dp"
+                    android:text="Need Blood"
+                    android:textAlignment="center"
+                    android:textColor="#121211"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+                />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cv3"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="5dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:layout_margin="2dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="148dp"
+                    android:layout_height="68dp"
+                    android:layout_gravity="center_horizontal"
+                    app:srcCompat="@drawable/findblood" />
+
+                <TextView
+                    android:layout_width="138dp"
+                    android:layout_height="29dp"
+                    android:text="Find Blood Bank"
+                    android:textAlignment="center"
+                    android:textColor="#121211"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cv4"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="5dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:layout_margin="2dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="148dp"
+                    android:layout_height="68dp"
+                    android:layout_gravity="center_horizontal"
+                    app:srcCompat="@drawable/factcheck" />
+
+                <TextView
+                    android:layout_width="138dp"
+                    android:layout_height="29dp"
+                    android:text="Facts"
+                    android:textAlignment="center"
+                    android:textColor="#121211"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cv5"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="5dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:layout_margin="2dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="148dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    app:srcCompat="@drawable/developer_board" />
+
+                <TextView
+                    android:layout_width="138dp"
+                    android:layout_height="29dp"
+                    android:text="Developer Board"
+                    android:textAlignment="center"
+                    android:textColor="#121211"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cv6"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="5dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:layout_margin="2dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="148dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    app:srcCompat="@drawable/logout" />
+
+                <TextView
+                    android:layout_width="138dp"
+                    android:layout_height="29dp"
+                    android:text="Sign Out"
+                    android:textAlignment="center"
+                    android:textColor="#121211"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+    </GridLayout>
+
+
+</LinearLayout>

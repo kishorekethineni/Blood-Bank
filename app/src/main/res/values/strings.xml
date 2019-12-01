@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Blood Care</string>
+    <string name="title_activity_maps">Donors Locations</string>
+    <string name="appname">Blood Care</string>
+    <string name="design">Developed By</string>
+    <string name="Signin">Login</string>
+    <string name="Signup">Signup</string>
+
+
+    <!-- Strings related to login -->
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="fullName">Full Name</string>
+    <string name="aadhar">Aadhar Number</string>
+    <string name="fact">
+
+<u>Facts about blood needs</u>\n\n
+1. Every year our nation requires about 5 Crore units of blood out of\n
+which only a meager 2.5 Crore units of blood are available.
+
+2. The gift of blood in the gift of life. There is no substitute for
+human blood.\n
+
+3. Every two seconds someone needs blood.\n
+
+4.More than 3,000 blood donations are needed every day.\n
+5.A total of 30 million blood components are transfused each year.\n
+6.The average red blood cell transfusion is approximately 3 pints.\n
+7.The blood type most often requested by hospitals is Type O.\n
+8. More than 1 million new people are diagnosed with cancer each
+year Many of them will need blood, sometimes daily during the
+chemotherapy treatment.\n
+9.A single car accident victim can require as many a 100 unito!
+blood.\n\n
+
+<u>Facts about the blood supply</u>\n\n
+
+1.Blood cannot be manufactured -it can only come from generous
+donors.\n
+2.Type O negative blood Red cells) can be transfused to patients
+of all blood types. It is always in greal demand and often in short
+supply.\n
+3.Type AB positive plasma can be transfused to patients of all other
+blood type AB plasma is also usually in short supply.\n\n
+
+<u>Facts about the blood donation process</u>\n\n
+
+1. Donating blood is safe process Sterile needle is used only
+once for each donor and then discarded.\n
+2.Blood donation is a simple four-step process registration
+medical history and mine physical donation and refreshments.\n
+3.The average adult has about 10 units of blood in his body
+Roughly 1 unit is given during a donation.\n
+4.A healthy donor may donate red blood cells every 56 days, on
+double red cells every 112 days.\n
+5.A healthy donor may donate platelets as few days apart but
+maximum of 24 times year.\n
+6.All donated blood is tested for HIV, hepatitis B and C syphilis and
+other infectious diseases before it can be transfused to patients.\n\n
+
+<u>Facts about blood and its components.</u>\n\n
+
+1. Blood makes up about 7 percent of your body weight\n
+2.There are four types of transfusable products that can be deemed
+from blood Red cells, platelets, plasma and cryoprecipitate
+Typically, two or three of these are produced from a unit of donate
+whole blood-hence each donation can help save up to three lives.\n
+3.Donors can give either whole blood or specific blood components
+only. The process of donating specific blood components - red
+cells, plasma or platelets - is called apheresis.\n
+4.One transfusion dose of platelets can be obtained through one
+apheresis donation of platelets or by combining the platelets
+derived from five whole blood donations.\n
+5.Donated platelets must be used within five days of collection.\n
+6.Healthy bone marrow makes a constant supply of red cells.\n
+plasma and platelets. The body will replenish the elements given
+during a blood donation- some in a matter of hours and others in
+matter of weeks.\n\n
+
+<u>Facts about donors</u>\n\n
+1.The number one reason donors say they give blood is because
+they want to help others.\n
+2.Two most common reasons cited by people who dont give blood
+are Never thought about it and I dont like needles.\n
+3.One donation can help save the lives of up to three people.\n
+4. If you began donating blood at age 18 and donated every 90 days
+until you reached 60, you would have donated 30 gallons of blood,
+potentially helping save more than 500 lives.\n
+5.Only 7 percent of people in India have O-negative blood type
+O negative blood type donors are universal donors as their blood
+can be given to people of all blood types.\n
+6.Type O negative blood is needed in emergencies before the
+patients blood type is known and with whom who need blood.\n
+7.Thirty five percent of people have Type O positive ar negative
+blood.\n
+8.04 percent of people have AB blood type A type blood
+donors are universal donor of plasma, which is often used in emergencies for newborn and patients requiring massive transfusion.
+
+</string>
+
+
+</resources>
